@@ -49,6 +49,6 @@ async def create_upload_file(uploaded_file: UploadFile = File(...)):
 
 # if __name__ == '__main__':
 
-#     uvicorn.run(app, host='127.0.0.1', port=4000, debug=True)
+#     uvicorn.run(app, host='127.0.0.1', port=3000, debug=True)
 
 
